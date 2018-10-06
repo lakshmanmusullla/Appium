@@ -1,0 +1,7 @@
+<suite name="AndroidAppAutomation">
+    <test name="AmazonTest">
+        <classes>
+            <class name="com.android.mobileautomation.AndroidAppTest" />
+        </classes>
+    </test>
+</suite>
