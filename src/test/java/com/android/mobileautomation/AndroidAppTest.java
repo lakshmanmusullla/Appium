@@ -41,7 +41,7 @@ public class AndroidAppTest {
     {
         DesiredCapabilities caps = new DesiredCapabilities();
         caps.setCapability("deviceName", "Lucky34");
-        caps.setCapability("udid", "5203e532ea47937f"); //Give Device ID of your mobile phone
+        caps.setCapability("udid", "*************"); //Give Device ID of your mobile phone
         caps.setCapability("platformName", "Android");
         caps.setCapability("platformVersion", "8.0");
         caps.setCapability("appPackage", "net.one97.paytm");
